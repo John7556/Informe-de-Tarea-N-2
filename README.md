@@ -7,6 +7,11 @@
 2. MARCO TEÓRICO (RESUMEN)
 
 
+![Concept Map (3)](https://user-images.githubusercontent.com/93899720/141872237-3ec06e43-2836-45d2-b6a2-6976e826a16a.jpg)
+![Concept Map (1)](https://user-images.githubusercontent.com/93899720/141872231-f22f80f7-0c47-485c-9f83-85a2ebff42c0.jpg)
+![Concept Map (2)](https://user-images.githubusercontent.com/93899720/141872245-e8598d5c-5f83-412e-8ff2-567f872d266a.jpg)
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
