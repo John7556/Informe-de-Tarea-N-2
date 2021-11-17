@@ -119,13 +119,15 @@
  23
  
  
- 25.
+ 25
+ 
+ ![image](https://user-images.githubusercontent.com/93899720/142299801-d4d5f4bd-433b-403d-b70a-f7908ac1adc0.png)
  
  
  27
  
  
- ![image](https://user-images.githubusercontent.com/93899720/142299367-6abf3b63-8435-49e6-b931-8c22dd885a42.png)
+ 
  
  
  29
