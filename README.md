@@ -16,7 +16,9 @@
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 - CAPITULO 3
- 1
+ 1 hola perra 
+ 
+ 
  3
  5
  7
