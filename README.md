@@ -117,10 +117,10 @@
  23
  
  
- 25)
+ 25.
  
  
- 27)
+ 27.
  ![image](https://user-images.githubusercontent.com/93899720/142299367-6abf3b63-8435-49e6-b931-8c22dd885a42.png)
  
  
