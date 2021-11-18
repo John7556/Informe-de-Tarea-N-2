@@ -70,7 +70,7 @@
  15
  
 ![Captura de pantalla 2021-11-17 212335](https://user-images.githubusercontent.com/93899720/142342242-4b3da8b8-0bfd-4e95-8b58-81e1a6645c09.png)
-![Captura de pantalla 2021-11-17 212358](https://user-images.githubusercontent.com/93899720/142342243-546aa4b7-50b1-4c78-afb3-5f26df4e88ed.png)
+![Captura de pantalla 2021-11-17 235419](https://user-images.githubusercontent.com/93899720/142354336-510eb807-12f5-4f03-b728-3dc734e2685d.png)
 ![Captura de pantalla 2021-11-17 212415](https://user-images.githubusercontent.com/93899720/142342245-541fa738-8a6e-4b02-a650-9adab1e9df87.png)
 ![Captura de pantalla 2021-11-17 212435](https://user-images.githubusercontent.com/93899720/142342247-845299f0-77b6-4f0c-9f50-118386337d28.png)
 ![Captura de pantalla 2021-11-17 212450](https://user-images.githubusercontent.com/93899720/142342248-2723889a-8719-4821-867c-55cd067649c9.png)
