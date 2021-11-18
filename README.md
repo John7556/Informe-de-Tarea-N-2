@@ -62,7 +62,10 @@
  
  29
  
- 
+![Captura de pantalla 2021-11-17 190317](https://user-images.githubusercontent.com/93899720/142302081-e3e1d1dc-72a8-4ef0-8263-e3b373c41ab1.png)
+![Captura de pantalla 2021-11-17 190417](https://user-images.githubusercontent.com/93899720/142302083-01d6ced1-1b1d-4733-ac33-fe654a278f08.png)
+![Captura de pantalla 2021-11-17 190426](https://user-images.githubusercontent.com/93899720/142302085-b1283c7a-3fe8-4073-952a-81c242aedbff.png)
+
  
  31
  
