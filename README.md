@@ -3,6 +3,13 @@
 
 1. OBJETIVOS
 
+•	Explicar la ley de Ohm 
+•	Aplicar la ley de ohm para calcular el voltaje, la resistencia y la cantidad de corriente del circuito  
+•	Aprender a localizar las fallas de un circuito
+•	Comprender los términos de energía y potencia
+•	Calcular la potencia de un circuito
+•	Comprender el uso de los resistores según la potencia del circuito 
+
 
 2. MARCO TEÓRICO (RESUMEN)
 
@@ -228,11 +235,6 @@
  ![image](https://user-images.githubusercontent.com/93899720/142300359-14ba604e-0bbd-4fb2-ae2e-79403840ebe9.png)
  
  
- 39
- 
- 
- 41
- 
 
 4. VIDEO
 
@@ -240,6 +242,12 @@
 
 5. CONCLUSIONES
 
+Para obtener  un correcto funcionamiento de un circuito y poder realizar el la reparación de un circuito averiado se tiene que comprender como influye la ley de ohm en la operación de cada componente en la placa, considerando lo que produce la corriente al pasar por una resistencia, tener el conocimiento apropiado para elegir la composición de una resistencia con la finalidad de que esta maximice el rendimiento del circuito.  
+
 
 6. BIBLIOGRAFÍA
+
+•	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.).
+
+•(2021). Retrieved 16 November 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
 
